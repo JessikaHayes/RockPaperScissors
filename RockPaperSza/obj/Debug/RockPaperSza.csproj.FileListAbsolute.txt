@@ -1,0 +1,7 @@
+C:\Users\CCA025\source\repos\RockPaperSza\RockPaperSza\obj\Debug\RockPaperSza.csprojAssemblyReference.cache
+C:\Users\CCA025\source\repos\RockPaperSza\RockPaperSza\obj\Debug\RockPaperSza.csproj.CoreCompileInputs.cache
+C:\Users\CCA025\source\repos\RockPaperSza\RockPaperSza\bin\Debug\RockPaperSza.exe.config
+C:\Users\CCA025\source\repos\RockPaperSza\RockPaperSza\bin\Debug\RockPaperSza.exe
+C:\Users\CCA025\source\repos\RockPaperSza\RockPaperSza\bin\Debug\RockPaperSza.pdb
+C:\Users\CCA025\source\repos\RockPaperSza\RockPaperSza\obj\Debug\RockPaperSza.exe
+C:\Users\CCA025\source\repos\RockPaperSza\RockPaperSza\obj\Debug\RockPaperSza.pdb
